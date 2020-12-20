@@ -1,0 +1,32 @@
+USE [Shopping]
+GO
+
+/****** Object:  Table [dbo].[orders]    Script Date: 12/20/2020 1:20:10 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[orders](
+	[o_id] [int] IDENTITY(1,1) NOT NULL,
+	[o_date] [date] NOT NULL,
+	[p_id] [int] NOT NULL,
+	[c_id] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[o_id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[orders]  WITH CHECK ADD FOREIGN KEY([c_id])
+REFERENCES [dbo].[customer] ([c_id])
+GO
+
+ALTER TABLE [dbo].[orders]  WITH CHECK ADD FOREIGN KEY([p_id])
+REFERENCES [dbo].[products] ([p_id])
+GO
+
+

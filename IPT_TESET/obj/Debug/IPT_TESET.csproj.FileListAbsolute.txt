@@ -1,0 +1,15 @@
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_TESET.exe.config
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_TESET.exe
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_TESET.pdb
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_ASS_3_ENTITY_FRAMEWORK.dll
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\EntityFramework.dll
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_ASS_3_ENTITY_FRAMEWORK.pdb
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\IPT_ASS_3_ENTITY_FRAMEWORK.dll.config
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\EntityFramework.xml
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\obj\Debug\IPT_TESET.csprojAssemblyReference.cache
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\obj\Debug\IPT_TESET.csproj.CoreCompileInputs.cache
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\obj\Debug\IPT_TESET.csproj.CopyComplete
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\obj\Debug\IPT_TESET.exe
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\obj\Debug\IPT_TESET.pdb
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mubeen\source\repos\IPT_ASS_3_ENTITY_FRAMEWORK\IPT_TESET\bin\Debug\EntityFramework.SqlServer.xml
